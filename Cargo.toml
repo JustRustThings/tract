@@ -181,8 +181,8 @@ openblas-src = { version = "0.10", features = ["static"] }
 paste = "1.0.5"
 potential_utf = "=0.1.0"
 proptest = "1.0.0"
-prost = "0.11.0"
-prost-types = "0.11.0"
+prost = "0.13.1"
+prost-types = "0.13.1"
 py_literal = "0.4.0"
 rand = { version = "0.8.4", features = ["small_rng"] }
 rand_distr = "0.4"
